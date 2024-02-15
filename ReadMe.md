@@ -1,5 +1,11 @@
 # 💫 About Me:
-As a software engineer, I was involved in numerous projects for<br>more than 7 years. I interested in working with new technologies<br>and engaging in different challenges also enjoy solving problems.
+As a software engineer, I have more than 10 years of experience in the field
+of software development with focusing on back-end development and
+implementing high-performance, scalable, and maintainable systems, also
+have been involved in numerous projects.
+I am interested in teamwork and continuous learning, Moreover, I enjoy
+collaborating to create innovative solutions and engaging in solving
+complex problems, as well as sharing knowledge.
 
 
 ## 🌐 Socials:
