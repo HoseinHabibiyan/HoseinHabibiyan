@@ -21,7 +21,7 @@
 
 ###
 
-<h2 align="left">Professional skills</h2>
+<h2 align="center">Professional skills</h2>
 
 ###
 
