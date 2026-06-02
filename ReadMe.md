@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">As a software engineer, I have more than 11 years of experience in the field<br>of software development with focusing on back-end development and<br>implementing high-performance, scalable, and maintainable systems, also<br>have been involved in numerous projects.<br>I am interested in teamwork and continuous learning, Moreover, I enjoy<br>collaborating to create innovative solutions and engaging in solving<br>complex problems, as well as sharing knowledge.</p>
+<p align="left">As a software engineer, I have more than 11 years of experience in the field<br>of software development with focusing on back-end development and implementing high-performance, scalable, and maintainable systems, also<br>have been involved in numerous projects.<br>I am interested in teamwork and continuous learning, Moreover, I enjoy<br>collaborating to create innovative solutions and engaging in solving complex problems, as well as sharing knowledge.</p>
 
 ###
 
