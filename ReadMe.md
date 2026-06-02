@@ -8,15 +8,16 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/hosein-habibiyan" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="76" height="50" alt="linkedin logo"  />
   </a>
-  <a href="hn.habibiyan@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
+  <a href="mailto:hn.habibiyan@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="76" height="50" alt="gmail logo"  />
   </a>
   <a href="https://t.me/the_asturias" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="42" height="30" alt="telegram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="76" height="50" alt="telegram logo"  />
   </a>
 </div>
+
 
 ###
 
