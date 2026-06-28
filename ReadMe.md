@@ -63,10 +63,9 @@
 
 <div data-importer="stats" align="center">
 <div>
-  <img height="150" alt="stats graph" src="https://github-readme-stats.profile-readme-generator.com/api?username=HoseinHabibiyan&amp;hide_title=false&amp;hide_rank=false&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;disable_animations=false&amp;theme=default&amp;locale=en&amp;hide_border=false&amp;order=1">
-</div>
-<div>
-   <img height="150" alt="languages graph" class="max-w-full" src="https://github-readme-stats.profile-readme-generator.com/api/top-langs?username=HoseinHabibiyan&amp;locale=en&amp;hide_title=false&amp;layout=compact&amp;card_width=320&amp;langs_count=4&amp;theme=default&amp;hide_border=false&amp;order=2">
+  <img style="margin-right:10px" height="150" alt="stats graph" src="https://github-readme-stats.profile-readme-generator.com/api?username=HoseinHabibiyan&amp;hide_title=false&amp;hide_rank=false&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;disable_animations=false&amp;theme=default&amp;locale=en&amp;hide_border=false&amp;order=1">
+
+<img height="150" alt="languages graph" class="max-w-full" src="https://github-readme-stats.profile-readme-generator.com/api/top-langs?username=HoseinHabibiyan&amp;locale=en&amp;hide_title=false&amp;layout=compact&amp;card_width=320&amp;langs_count=4&amp;theme=default&amp;hide_border=false&amp;order=2">
 </div>
 </div>
 
