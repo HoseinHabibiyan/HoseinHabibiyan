@@ -59,9 +59,6 @@
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/HoseinHabibiyan/HoseinHabibiyan/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/HoseinHabibiyan/HoseinHabibiyan/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=default&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<div class="flex flex-wrap gap-xs" style="flex-direction: row; justify-content: center;"><img height="150" alt="stats graph" class="max-w-full" src="https://github-readme-stats.profile-readme-generator.com/api?username=HoseinHabibiyan&amp;hide_title=false&amp;hide_rank=false&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;disable_animations=false&amp;theme=default&amp;locale=en&amp;hide_border=false&amp;order=1"><img height="150" alt="languages graph" class="max-w-full" src="https://github-readme-stats.profile-readme-generator.com/api/top-langs?username=HoseinHabibiyan&amp;locale=en&amp;hide_title=false&amp;layout=compact&amp;card_width=320&amp;langs_count=7&amp;theme=default&amp;hide_border=false&amp;order=2"></div>
 
 ###
